@@ -55,9 +55,9 @@
     "tslib": "^2.5.0"
   },
   "devDependencies": {
+    "@apollo/server": "4.0.0",
     "@envelop/core": "^4.0.0",
     "@graphql-tools/schema": "10.0.0",
-    "@apollo/server": "4.0.0",
     "graphql": "16.6.0",
     "typescript": "5.0.4"
   },
