@@ -1,5 +1,14 @@
 # @envelop/newrelic
 
+## 6.0.2
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @envelop/core@4.0.1
+- Updated dependencies []:
+  - @envelop/on-resolve@3.0.1
+
 ## 6.0.1
 
 ### Patch Changes
